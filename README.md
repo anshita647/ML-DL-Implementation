@@ -66,5 +66,3 @@ This project is structured into three main parts, covering supervised learning (
     *   `TensorFlow` / `Keras`
 *   **Gradient Boosting:**
     *   `XGBoost`
-
-## 📁 Repository Structure
